@@ -17,7 +17,7 @@ Installation
 
 Navigate into the project folder:
 
-cd tiktok-comment-liker
+: cd tiktok-comment-liker
 
 Install the required packages:
 
