@@ -57,7 +57,3 @@ To run the script, execute the following commands in order:
 For liking comments:
 
     python main.py
-
-License
-
-This project is free for personal use. For commercial use, do not use without prior permission. For more details, see the LICENSE.md file.
