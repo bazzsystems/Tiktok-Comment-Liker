@@ -13,19 +13,13 @@ Installation
 
     Clone this repository:
 
-    bash
-
 git clone https://github.com/yourusername/tiktok-comment-liker.git
 
 Navigate into the project folder:
 
-bash
-
 cd tiktok-comment-liker
 
 Install the required packages:
-
-bash
 
     pip install -r requirements.txt
 
@@ -39,8 +33,6 @@ Setup
     Collecting URLs:
         Run first.py:
 
-        bash
-
     python first.py
 
     When prompted, choose whether to overwrite or add URLs to your existing file. Overwriting will replace the file, while adding will append new URLs to it.
@@ -48,8 +40,6 @@ Setup
 Liking Comments:
 
     Run main.py:
-
-    bash
 
         python main.py
 
@@ -63,13 +53,10 @@ To run the script, execute the following commands in order:
 
     For URL collection:
 
-    bash
 
 python first.py
 
 For liking comments:
-
-bash
 
     python main.py
 
