@@ -52,9 +52,7 @@ Usage
 To run the script, execute the following commands in order:
 
     For URL collection:
-
-
-python first.py
+    python first.py
 
 For liking comments:
 
