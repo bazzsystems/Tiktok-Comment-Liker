@@ -13,7 +13,7 @@ Installation
 
     Clone this repository:
 
-git clone https://github.com/yourusername/tiktok-comment-liker.git
+    git clone https://github.com/yourusername/tiktok-comment-liker.git
 
 Navigate into the project folder:
 
